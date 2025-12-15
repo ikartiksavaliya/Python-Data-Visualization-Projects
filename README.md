@@ -1,44 +1,33 @@
 # Python Data Visualization Projects
 
-This repository contains a collection of Python data visualization projects created to demonstrate practical skills in data analysis and visual storytelling using real-world datasets.
+This repository contains a collection of data analysis and visualization projects. Each project focuses on a specific dataset to uncover insights using Python's data science stack.
 
-The focus of these projects is to explore data, uncover patterns, and communicate insights clearly through well-structured visualizations.
+## Projects
 
----
+| Project Name | Description | Tools Used |
+| :--- | :--- | :--- |
+| **[911 Emergency Analysis](./911_Emergency_Analysis)** | Analysis of emergency call data to determine top call types, peak times, and location hotspots. | Pandas, Seaborn, Matplotlib |
+| *[More projects to be added]* | ... | ... |
 
-## 🔍 What This Repository Demonstrates
+## Technologies
+* **Language:** Python 3.x
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Cufflinks
+* **Environment:** Jupyter Notebook
 
-- Data cleaning and preprocessing using Pandas
-- Exploratory Data Analysis (EDA)
-- Data visualization using Matplotlib and Seaborn
-- Converting raw data into meaningful insights
-- Writing clean, readable, and reproducible notebooks
+## How to Run
+1.  Clone the repository:
+    ```bash
+    git clone [https://github.com/ikartiksavaliya/Python-Data-Visualization-Projects.git](https://github.com/ikartiksavaliya/Python-Data-Visualization-Projects.git)
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd Python-Data-Visualization-Projects
+    ```
+3.  Install dependencies (if `requirements.txt` is present) or ensure you have Anaconda installed.
+4.  Launch Jupyter Notebook:
+    ```bash
+    jupyter notebook
+    ```
 
----
-
-## 📁 Projects Overview
-
-### 1. 911 Calls Data Analysis
-- Analyzed emergency call data to identify trends by time, reason, and location
-- Used time-series plots, count plots, and heatmaps
-- Focused on answering real analytical questions
-
-📂 Project folder: `911-calls-data-analysis/`
-
----
-
-## 🛠️ Tools & Libraries Used
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
----
-
-## ▶️ How to Run the Projects
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ikartiksavaliya/Python-Data-Visualization-Projects.git
+## Author
+**Kartik Savaliya** [GitHub Profile](https://github.com/ikartiksavaliya)
