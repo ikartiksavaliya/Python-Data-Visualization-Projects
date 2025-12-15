@@ -23,7 +23,10 @@ This repository contains a collection of data analysis and visualization project
     ```bash
     cd Python-Data-Visualization-Projects
     ```
-3.  Install dependencies (if `requirements.txt` is present) or ensure you have Anaconda installed.
+3.  Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 4.  Launch Jupyter Notebook:
     ```bash
     jupyter notebook
